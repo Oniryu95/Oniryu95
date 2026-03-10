@@ -22,7 +22,7 @@ I am Stefano, a computer scientist and a former chef’s assistant in a one-star
 ## 🧠 Philosophy
 > "A true master is an eternal student" - Master Yi
 
-I am constantly seeking new challenges to maintain my balance through motion. When I'm not coding, you'll probably find me cooking, 3D printing, or studying computer science on my own.
+I am constantly seeking new challenges to maintain my balance through motion. When I'm not coding, you'll probably find me cooking, 3D printing, or playing some board games.
 
 ## 📫 Connect with me
 * **LinkedIn:** [stefano-sidoni](https://www.linkedin.com/in/stefano-sidoni/)
